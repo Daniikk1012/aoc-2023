@@ -2,10 +2,10 @@
 
 Inputs are located in `inputs` directory.
 
-To run the solutions, either use `<jconsole> <n>.ijs` or
-`cat <n>.ijs | <jconsole>`. Replace `<jconsole>` with whatever the path your J
-interpreter has. The working directory must be the directory of the repository
-itself, otherwise the inputs won't be found.
+To run the solutions, either use `<jconsole> <day>/<part>.ijs` or
+`cat <day>/<part>.ijs | <jconsole>`. Replace `<jconsole>` with whatever the path
+your J interpreter has. The working directory must be the directory of the
+repository itself, otherwise the inputs won't be found.
 
 Fun fact: the standard library is not required to run these solutions. This is
 because I installed my J interpreter from AUR, and it only install the
