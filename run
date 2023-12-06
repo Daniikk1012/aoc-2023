@@ -1,0 +1,4 @@
+#!/usr/bin/env sh
+set -e
+cd "$2"
+"$1" < "$3.ijs"

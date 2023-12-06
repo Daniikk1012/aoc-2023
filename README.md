@@ -1,11 +1,12 @@
 # Solutions to Advent of Code 2023 in J
 
-Inputs are located in `inputs` directory.
-
 To run the solutions, either use `<jconsole> <day>/<part>.ijs` or
 `cat <day>/<part>.ijs | <jconsole>`. Replace `<jconsole>` with whatever the path
-your J interpreter has. The working directory must be the directory of the
-repository itself, otherwise the inputs won't be found.
+your J interpreter has. The working directory must be the directory where the
+solutions are located, because the corresponding inputs lie alongside them.
+
+For convenience, you may use script `run` from the root of the repository to run
+the solutions, like so: `./run <jconsole> <day> <part>`.
 
 Fun fact: the standard library is not required to run these solutions. This is
 because I installed my J interpreter from AUR, and it only install the
