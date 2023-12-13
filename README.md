@@ -29,3 +29,9 @@ it there? So yeah, everything is based only on J's built-in features.
 By the way, that is the reason I do not use a shebang; I have to pipe the file
 into the interpreter, because the interpreter does not want to load the file due
 to not being able to find the standard library.
+
+## Bad solutions
+
+* Day 10, Part 2: WAY too slow and WAY too long and complicated
+* Day 12, Part 2: Had to use a non-tacit solutions + added memoization only
+after I found a hint on the Internet
