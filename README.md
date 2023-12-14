@@ -37,3 +37,4 @@ occur in the input data
 * Day 10, Part 2: WAY too slow and WAY too long and complicated
 * Day 12, Part 2: Had to use a non-tacit solution + added memoization only after
 I found a hint on the Internet
+* Day 14, Part 2: Actually good, but used a non-tacit solution
