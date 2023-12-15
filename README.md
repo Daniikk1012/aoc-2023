@@ -38,3 +38,4 @@ occur in the input data
 * Day 12, Part 2: Had to use a non-tacit solution + added memoization only after
 I found a hint on the Internet
 * Day 14, Part 2: Actually good, but used a non-tacit solution
+* Day 15, Part 2: Good, but not tacit
