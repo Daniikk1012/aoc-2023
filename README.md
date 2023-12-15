@@ -12,10 +12,14 @@ the solutions, like so: `./run <jconsole> <day> <part>`.
 
 ## One-liners
 
-All solutions here are done in a single J expression, only using tacit function
+Most solutions here are done in a single J expression, only using tacit function
 definitions. That means no variables, or direct definitions were used. This
 makes a fun challenge, but also results in unreadable code. I also try to golf
 it at least to some degree, so unnecessary spaces are removed.
+
+Sometimes though, tacit solutions are incredibly hard (But still not
+impossible). In such cases, I may use a solution that uses direct definitions,
+such solutions are listed in the "Bad solutions" section below.
 
 ## Standard library
 
@@ -31,6 +35,8 @@ into the interpreter, because the interpreter does not want to load the file due
 to not being able to find the standard library.
 
 ## Bad solutions
+
+The list of slow, long, or simply non-tacit solutions:
 
 * Day 10, Part 1: WAY too slow and shouldn't work in some edgecases that do not
 occur in the input data
