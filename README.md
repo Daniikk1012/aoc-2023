@@ -45,3 +45,4 @@ occur in the input data
 I found a hint on the Internet
 * Day 14, Part 2: Actually good, but used a non-tacit solution
 * Day 15, Part 2: Good, but not tacit
+* Day 16, Part 2: VERY slow, and kinda long
