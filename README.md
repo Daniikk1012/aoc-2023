@@ -46,3 +46,5 @@ I found a hint on the Internet
 * Day 14, Part 2: Actually good, but used a non-tacit solution
 * Day 15, Part 2: Good, but not tacit
 * Day 16, Part 2: VERY slow, and kinda long
+* Day 18, Part 1: Not tacit
+* Day 18, Part 2: VERY BEAUTIFUL, but not tacit, and shouldn't work in all cases
