@@ -48,3 +48,4 @@ I found a hint on the Internet
 * Day 16, Part 2: VERY slow, and kinda long
 * Day 18, Part 1: Not tacit
 * Day 18, Part 2: VERY BEAUTIFUL, but not tacit, and shouldn't work in all cases
+* Day 19, Part 2: Not tacit
