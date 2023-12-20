@@ -49,3 +49,6 @@ I found a hint on the Internet
 * Day 18, Part 1: Not tacit
 * Day 18, Part 2: VERY BEAUTIFUL, but not tacit, and shouldn't work in all cases
 * Day 19, Part 2: Not tacit
+* Day 20, Part 1: Not tacit, but not bad
+* Day 21, Part 2: Awful + non-tacit + did not come up with the LCM approach, had
+to google
