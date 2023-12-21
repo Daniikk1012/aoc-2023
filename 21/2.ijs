@@ -40,7 +40,6 @@ orthogonal_count =. +/{{
     odds =. (y at to_step+2|half)*>.-:full
     evens =. (y at to_step+-.2|half)*<.-:full
     layers =. }:>:^:(to_step>:steps)^:a:>:full
-    (y at to_step-steps)"0 layers
     odds+evens++/(y at to_step-steps)"0 layers
 }}"1 top_middle,middle_left,middle_right,:bottom_middle
 
