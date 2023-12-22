@@ -54,3 +54,5 @@ I found a hint on the Internet
 to google
 * Day 21, Part 2: Beautiful, clever, but non-tacit + a lot of assumption are
 made about the input
+* Day 22, Part 1: Ugly, slow, non-tacit
+* Day 22, Part 2: Clever, beautiful, but still non-tacit
