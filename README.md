@@ -56,3 +56,7 @@ to google
 made about the input
 * Day 22, Part 1: Ugly, slow, non-tacit
 * Day 22, Part 2: Clever, beautiful, but still non-tacit
+* Day 23, Part 1: Not tacit, kinda slow
+* Day 23, Part 2: Not tacit and VERY slow, so slow that I had a correct solution
+but didn't wait for it to finish so I had to google to realize it's just J being
+a slow language
