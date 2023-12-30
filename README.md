@@ -60,3 +60,4 @@ made about the input
 * Day 23, Part 2: Not tacit and VERY slow, so slow that I had a correct solution
 but didn't wait for it to finish so I had to google to realize it's just J being
 a slow language
+* Day 24, Part 2: Clever, but with a lot of assumptions made
